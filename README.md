@@ -1,4 +1,4 @@
-# kafka-case
+# practice-with-kkafka-maven
 
 Custom Kafka Producer and Consumer apps.
 
@@ -6,7 +6,7 @@ Article: <https://www.javaworld.com/article/3060078/big-data/big-data-messaging-
 
 Source: <https://github.com/denisecase/kafka-api>
 
-Goal:
+Goals:
 
 * Create your own CustomConsumer.
 * Create your own CustomProducer to auto-generate and send at least 10 messages to a topic using the Twitter API.
